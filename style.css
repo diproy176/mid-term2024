@@ -64,6 +64,13 @@ body {
     display: block;
     border-radius: 5px;
   }
-    
+/* Products Page Grid */
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+      
   
         
