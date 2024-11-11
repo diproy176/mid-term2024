@@ -6,4 +6,9 @@ body {
     box-sizing: border-box;
     line-height: 1.6;
   }
-  
+  header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+  }
+    
