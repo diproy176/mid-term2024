@@ -77,6 +77,26 @@ body {
     text-align: center;
   }
   
-        
+  .product-item h3 {
+    margin-top: 10px;
+  }
+  
+  /* Contact Page Styles */
+  .contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .contact-form label {
+    font-weight: bold;
+  }
+  
+          
   
         
