@@ -38,5 +38,21 @@ body {
     background-color: #ddd;
     border-radius: 5px;
   }
+  footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Home Page Flexbox */
+  .home-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  
   
         
